@@ -1,0 +1,14 @@
+.search {
+    margin-left: 540px;
+}
+.score {
+    font-size: 75px;
+    position: relative;
+    margin-left: 500px;
+    
+}
+
+.body {
+ background-image: url("https://files.vladstudio.com/sequoia/joy/bird_bird_bird_bird_bird/thumbs/1920x1080.jpg");
+ background-size: cover;
+}
